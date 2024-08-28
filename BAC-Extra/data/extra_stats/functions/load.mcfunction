@@ -12,3 +12,4 @@ scoreboard objectives add stats_buried_treasures dummy
 scoreboard objectives add stats_ancient_city_chests dummy
 scoreboard objectives add stats_end_city_chests dummy
 scoreboard objectives add stats_levitating_ticks dummy
+scoreboard objectives add stats_portal_used dummy

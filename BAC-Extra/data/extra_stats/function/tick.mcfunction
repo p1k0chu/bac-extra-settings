@@ -23,3 +23,6 @@ execute as @a[advancements={extra_stats:end_city_loot=true}] run advancement rev
 
 execute as @a[advancements={extra_stats:levitating=true}] run scoreboard players add @s stats_levitating_ticks 1
 execute as @a[advancements={extra_stats:levitating=true}] run advancement revoke @s only extra_stats:levitating
+
+execute as @a[advancements={extra_stats:portal_used=true}] run scoreboard players add @s stats_portal_used 1
+execute as @a[advancements={extra_stats:portal_used=true}] run advancement revoke @s only extra_stats:portal_used

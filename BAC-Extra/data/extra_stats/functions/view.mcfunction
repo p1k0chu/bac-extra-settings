@@ -16,6 +16,7 @@ tellraw @s {"color":"gray","italic":true,"text":""}
 
 tellraw @s {"text":"Misc","bold":true,"underlined":true,"color":"white"}
 tellraw @s ["",{"text":"Levitation effect in ticks: ","color":"#b571ff"},{"score":{"name":"@s","objective":"stats_levitating_ticks"},"bold":true,"color":"#b571ff"}]
+tellraw @s ["",{"text":"Portals used: ","color":"#e00000"},{"score":{"name":"@s","objective":"stats_portal_used"},"bold":true,"color":"#e00000"}]
 
 tellraw @s {"text":"                                             ","color":"dark_gray","strikethrough":true}
 

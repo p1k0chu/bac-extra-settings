@@ -1,0 +1,7 @@
+{
+    "criteria": {
+        "portal": {
+            "trigger": "minecraft:changed_dimension"
+        }
+    }
+}
