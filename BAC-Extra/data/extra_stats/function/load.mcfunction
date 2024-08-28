@@ -10,4 +10,5 @@ scoreboard objectives add stats_pandas_bred dummy
 scoreboard objectives add stats_llamas_tamed dummy
 scoreboard objectives add stats_buried_treasures dummy
 scoreboard objectives add stats_ancient_city_chests dummy
-
+scoreboard objectives add stats_end_city_chests dummy
+scoreboard objectives add stats_levitating_ticks dummy

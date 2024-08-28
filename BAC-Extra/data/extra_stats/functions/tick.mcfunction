@@ -17,3 +17,9 @@ execute as @a[advancements={extra_stats:ancient_city=true}] run advancement revo
 
 execute as @a[advancements={extra_stats:buried_treasure=true}] run scoreboard players add @s stats_buried_treasures 1
 execute as @a[advancements={extra_stats:buried_treasure=true}] run advancement revoke @s only extra_stats:buried_treasure
+
+execute as @a[advancements={extra_stats:end_city_loot=true}] run scoreboard players add @s stats_end_city_chests 1
+execute as @a[advancements={extra_stats:end_city_loot=true}] run advancement revoke @s only extra_stats:end_city_loot
+
+execute as @a[advancements={extra_stats:levitating=true}] run scoreboard players add @s stats_levitating_ticks 1
+execute as @a[advancements={extra_stats:levitating=true}] run advancement revoke @s only extra_stats:levitating

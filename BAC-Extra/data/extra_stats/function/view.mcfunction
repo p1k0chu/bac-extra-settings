@@ -10,6 +10,12 @@ tellraw @s {"color":"gray","italic":true,"text":""}
 tellraw @s {"text":"Chests","bold":true,"underlined":true,"color":"white"}
 tellraw @s ["",{"text":"Ancient City Chests: ","color":"gold"},{"score":{"name":"@s","objective":"stats_ancient_city_chests"},"bold":true,"color":"gold"}]
 tellraw @s ["",{"text":"Buried Treasures: ","color":"dark_aqua"},{"score":{"name":"@s","objective":"stats_buried_treasures"},"bold":true,"color":"dark_aqua"}]
+tellraw @s ["", {"text":"End City Chests: ", "color": "#b571ff"}, {"score":{"name":"@s","objective":"stats_end_city_chests"}, "bold":true, "color":"#b571ff"}]
+
+tellraw @s {"color":"gray","italic":true,"text":""}
+
+tellraw @s {"text":"Misc","bold":true,"underlined":true,"color":"white"}
+tellraw @s ["",{"text":"Levitation effect in ticks: ","color":"#b571ff"},{"score":{"name":"@s","objective":"stats_levitating_ticks"},"bold":true,"color":"#b571ff"}]
 
 tellraw @s {"text":"                                             ","color":"dark_gray","strikethrough":true}
 
