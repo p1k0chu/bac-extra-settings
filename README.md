@@ -12,14 +12,11 @@ All new statistics can be viewed by running the command **/trigger stats_view**
 ![image](https://github.com/tjthings/bac-extra-settings/assets/149956294/8b386861-2a85-440d-b755-c04c633d14df)
 
 # Standard Settings
-Datapack Presets Downloads (in releases) (im lazy to actually generate every preset hehe)
+Datapack Presets Downloads (in releases)
 - NO-SETTINGS: No extra settings, only new statistics scoreboards
 - SCOREBOARD: Automatically turn on advancement scoreboard
-- HARDCORE: Scoreboard + Hardcore/Terralith install functions (MUST DOWNLOAD THOSE DATAPACKS SEPARATELY)
-- NO-TROPHIES: Scoreboard + no trophies (how I prefer to play :])
-- NO-REWARDS: Scoreboard + no advancement rewards
 - CO-OP: Basic co-op settings, advancement rewards only go to first player, all players added to a the same team
-If you want some combination of multiple (ie. hardcore w/ no rewards or removing scoreboard) follow the steps below to generate your own datapack
+You can make it hardcore/terralith customize rewards etc. read below
 
 How to customize your settings:
 1) Download the source code from releases and unzip
